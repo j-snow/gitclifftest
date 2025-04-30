@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [unreleased]
+
+### 🐛 Bug Fixes
+
+- Update gitgliff.yml to write tot he changelog
+- Replace the other <branch> in gitgliff.yml
+
 ## [0.1.1] - 2025-04-30
 
 ### 🐛 Bug Fixes
